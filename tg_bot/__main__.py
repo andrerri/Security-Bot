@@ -22,7 +22,7 @@ Hello {}, my name is {}! if you have any questions about how to use me please gi
 
 im a group manager bot maintained by  [André Ribas](tg://user?id={}).
 
-My future updates will be put into This Channel - @ARNextRobot.
+My future updates will be put into This Channel - @ARNextRobot My support group - @ARNextRobotGroup.
 
 This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/Andreribas15/Marie-2.0-English/),
 you can create clone same like me..
