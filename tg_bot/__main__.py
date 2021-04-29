@@ -24,7 +24,7 @@ im a group manager bot maintained by  [André Ribas](tg://user?id={}).
 
 My future updates will be put into This Channel - @ARNextRobot My support group - @ARNextRobotGroup.
 
-This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/Andreribas15/Marie-2.0-English/),
+This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/Andreribas15/Security-Bot),
 you can create clone same like me..
 
 For more commands click /help...
